@@ -1,0 +1,8 @@
+{
+  "nodes": [
+    "OrelsDownloadAll",
+    "OrelsHFToken",
+    "OrelsLoraUpload",
+    "OrelsModelDownload"
+  ]
+}
