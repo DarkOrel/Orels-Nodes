@@ -1,0 +1,14 @@
+[project]
+name = "orels-nodes"
+version = "0.5.0"
+description = "Custom ComfyUI nodes by Orel"
+requires-python = ">=3.10"
+dynamic = ["dependencies"]
+
+[project.urls]
+Repository = "https://github.com/DarkOrel/Orels-Nodes"
+
+[tool.comfy]
+PublisherId = "YOUR_PUBLISHER_ID"
+DisplayName = "Orel's Nodes"
+Icon = ""
