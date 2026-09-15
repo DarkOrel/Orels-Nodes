@@ -1,8 +1,6 @@
 {
-  "nodes": [
-    "OrelsDownloadAll",
-    "OrelsHFToken",
-    "OrelsLoraUpload",
-    "OrelsModelDownload"
-  ]
+  "OrelsDownloadAll": "Download all configured Hugging Face models.",
+  "OrelsHFToken": "Configure the Hugging Face token used by Orel's Nodes.",
+  "OrelsLoraUpload": "Upload LoRA safetensors files into ComfyUI.",
+  "OrelsModelDownload": "Download a Hugging Face model directly into a ComfyUI model folder."
 }
