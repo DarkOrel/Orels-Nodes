@@ -3,12 +3,13 @@ name = "orels-nodes"
 version = "0.5.0"
 description = "Custom ComfyUI nodes by Orel"
 requires-python = ">=3.10"
+license = { file = "LICENSE" }
 dynamic = ["dependencies"]
 
 [project.urls]
 Repository = "https://github.com/DarkOrel/Orels-Nodes"
 
 [tool.comfy]
-PublisherId = "YOUR_PUBLISHER_ID"
+PublisherId = "darkorel"
 DisplayName = "Orel's Nodes"
 Icon = ""
