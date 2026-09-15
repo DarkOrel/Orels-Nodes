@@ -1,4 +1,4 @@
-# Orel's Nodes — 0.5.1
+# Orel's Nodes — 0.5.2
 
 One ComfyUI extension containing four nodes under **Orel's Nodes / Models**:
 
